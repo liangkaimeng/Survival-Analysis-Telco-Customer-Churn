@@ -1,0 +1,23 @@
+https://www.kaggle.com/blastchar/telco-customer-churn
+
+0 customerID 客户编号
+1 gender 性别
+2 SeniorCitizen 是否是老年人
+3 Partner 是否单身
+4 Dependents 经济是否独立
+5 tenure 已使用月份数
+6 PhoneService 电话业务
+7 MultipleLines 多线业务
+8 InternetService 网络服务业务
+9 OnlineSecurity 网络安全业务
+10 OnlineBackup 网络备份业务
+11 DeviceProtection 设备保护业务
+12 TechSupport 技术支持业务
+13 StreamingTV 网络电视业务
+14 StreamingMovies 网络电影业务
+15 Contract 合同方式
+16 PaperlessBilling 电子账单
+17 PaymentMethod 支付方式
+18 MonthlyCharges 月费用
+19 TotalCharges 总费用
+20 Churn 客户是否流失
